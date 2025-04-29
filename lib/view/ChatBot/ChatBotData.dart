@@ -1,0 +1,26 @@
+class ChatBotData {
+  static const Map<String, String> qaMap = {
+    'hello': 'Hello how can i help you',
+  'What is CAREWHEELS?': 'CAREWHEELS is a service providing three-wheeler rides designed for the elderly, handicapped, and women, ensuring safe and convenient transportation.',
+  'How do I book a ride?': 'To book a ride, open the app, choose "Book a ride," and enter your pickup and drop-off locations. You can also select additional services as needed.',
+  'What is the payment method?': 'You can pay for your ride using cash or through various online payment methods such as credit/debit cards and wallet options available in the app.',
+  'What is the cancellation policy?': 'You can cancel a ride for free up to 10 minutes before the scheduled pickup time. After that, a cancellation fee may apply.',
+  'How can I contact customer support?': 'Customer support can be contacted directly via the "Help" section in the app or by calling our customer service number available within the app.',
+  'What are the operating hours?': 'CAREWHEELS operates 24 hours a day, 7 days a week, to ensure you have access to transportation at any time.',
+  'is there a minimum fare for a ride?': 'Yes, there is a minimum fare for all rides, which is displayed when you book the ride based on your location.',
+  'can I book a ride in advance?': 'Yes, you can book a ride in advance by selecting the "Schedule Ride" option and choosing the desired date and time for your pickup.',
+  'can I choose the driver?': 'At the moment, we do not allow users to choose specific drivers, but we ensure that all our drivers are trained and verified for your safety and comfort.',
+  'what should I do if I forget something in the vehicle?': 'If you forget an item in the vehicle, please contact our customer support team immediately, and we will assist you in retrieving your belongings.',
+  'is there a waiting fee?': 'Yes, a waiting fee applies if the driver has to wait for you beyond the agreed pickup time. This fee is calculated based on time and distance.',
+  'can I use CAREWHEELS for long-distance trips?': 'Yes, CAREWHEELS is available for long-distance trips. You can set your destination and inquire about the fare during the booking process.',
+  'are pets allowed in the vehicle?': 'Yes, pets are allowed, but please inform the driver in advance to ensure the vehicle is suitable for your pet’s needs.',
+  'how do I track my ride?': 'You can track your ride by opening the app and selecting the "Track my ride" option, which will display the real-time location of your driver.',
+  'can I share my ride with others?': 'At this time, we do not offer ride-sharing services. However, you can book multiple rides if you need transportation for others.',
+  'what if I am running late for my ride?': 'If you’re running late, please contact the driver directly through the app or call customer support to update your pickup time.',
+  'do you offer rides for people with special needs?': 'Yes, we provide rides for elderly and handicapped passengers with special assistance available upon request. Please let us know in advance so we can accommodate your needs.',
+  'what happens if I am not at the pickup location when the driver arrives?': 'If you are not at the pickup location, the driver will wait for a short time. If you re still not there, a waiting fee may be applied, or the ride might be canceled.',
+  'how do I change my pickup or drop location during the ride?': 'You can change your pickup or drop location while in transit by contacting the driver or customer support. However, this may affect the fare.',
+  'is there a rating system for drivers?': 'Yes, after each ride, you will have the option to rate your driver and leave feedback to help us maintain high service standards.',
+  'can I book a ride for someone else?': 'Yes, you can book a ride for someone else by entering their pickup and drop-off details when making the booking.',
+};
+}

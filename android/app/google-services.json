@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "325358213191",
+    "project_id": "threewheeler-4fd4d",
+    "storage_bucket": "threewheeler-4fd4d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325358213191:android:d15636d576bf7d827af962",
+        "android_client_info": {
+          "package_name": "com.threewheeler.driver.driver_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9HA3MvK4C1dhlEkxqxdgnS5Alq95XmOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325358213191:android:7fccf5c7752edfee7af962",
+        "android_client_info": {
+          "package_name": "com.threewheeler.user.user_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaQ6SluvYPycV9rvzdYARbGVXSfzUQCpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
