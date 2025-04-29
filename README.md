@@ -68,8 +68,16 @@ To get this project up and running locally, make sure you have the following ins
     flutter run
     ```
 
-## Folder Structure
-The project is organized as follows:
+## USER INTERFACE
+![image](https://github.com/user-attachments/assets/1a7009eb-4418-4893-8915-3869a10ad5f7)
+![image](https://github.com/user-attachments/assets/e849ef2c-63e7-45d7-900b-c04462259b9a)
+![image](https://github.com/user-attachments/assets/a944a9c3-3f0b-49e5-bea1-5d1234da2beb)
+![image](https://github.com/user-attachments/assets/81e86101-8807-4036-b4e3-0898b56a45fd)
+![image](https://github.com/user-attachments/assets/4bc7566f-fc22-4415-9d1e-ff2e8df0db99)
+
+
+
+
 
 
 ## How the App Works
@@ -110,7 +118,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-If you encounter any issues or have any questions, please open an issue in the repository or contact the maintainers.![image](https://github.com/user-attachments/assets/4091a91f-ce90-4d8e-a62b-2978303fccf4)
+If you encounter any issues or have any questions, please open an issue in the repository or contact the maintainers.
 
 
 
